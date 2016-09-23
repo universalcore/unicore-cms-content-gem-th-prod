@@ -6,12 +6,12 @@
   "primary_category": "0a554949d550402e920569e92af2b2ce", 
   "created_at": "2015-07-12T10:26:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-14T21:43:25.591450+00:00", 
+  "modified_at": "2016-09-23T15:22:53.714536+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 47, 
+  "position": 46, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-bad-crowd", 
   "uuid": "9b3907217321415d85df9d52c99e7222"
